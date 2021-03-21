@@ -62,3 +62,5 @@ test-output/testng-reports.css
 test-output/testng-reports.js
 test-output/testng-results.xml
 test-output/testng.css
+/bin/
+/target/

@@ -13,7 +13,6 @@ import org.testng.annotations.BeforeTest;
 import driverInstance.BrowserFactory;
 import driverInstance.DriverFactory;
 import extentlisteners.ExtentManager;
-import utilities.Log;
 
 public class DriverSetupAndKill {
 	public WebDriver driver = null;
@@ -42,13 +41,13 @@ public class DriverSetupAndKill {
 	@BeforeMethod
 	public void beforeTestCaseBegins() {
 		String methodName = Thread.currentThread().getStackTrace()[2].getMethodName();
-		Log.startTestCase(methodName);
+		
 
 	}
 	
 	@AfterMethod
 	public void afterTestCaseEnds() {
-		Log.endTestCase();
+		
 	}
 	
 	

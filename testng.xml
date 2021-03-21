@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="tests" thread-count="3">
+	<listeners>
+		<listener class-name="extentlisteners.TestListener" />
+	</listeners>
+
+	<test name="Amazon Test">
+		<classes>
+			<class name="masterPackage.DriverSetupAndKill" />
+			<class name="amazonPackage.AmazonTest" />
+		</classes>
+	</test> <!-- Test -->
+	
+	<test name="Flipkart Test">
+		<classes>
+			<class name="masterPackage.DriverSetupAndKill" />
+			<class name="flipkartPackage.FlipkartTest" />
+		</classes>
+	</test> <!-- Test -->
+	
+	<test name="Google Test">
+		<classes>
+			<class name="masterPackage.DriverSetupAndKill" />
+			<class name="googlePackage.GoogleTest" />
+		</classes>
+	</test> <!-- Test -->
+	
+	
+	
+	
+</suite> <!-- Suite -->
