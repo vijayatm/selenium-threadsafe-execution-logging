@@ -1,0 +1,64 @@
+
+target/classes/log4j.xml
+target/classes/driverInstance/BrowserFactory.class
+target/classes/driverInstance/DriverFactory.class
+target/classes/extentlisteners/ExtentManager.class
+target/classes/extentlisteners/ExtentTestManager.class
+target/classes/extentlisteners/TestListener.class
+target/classes/masterPackage/DriverSetupAndKill.class
+target/classes/META-INF/MANIFEST.MF
+target/classes/META-INF/maven/com.parallel.selenium/com.parallel.selenium.threadsafe/pom.properties
+target/classes/META-INF/maven/com.parallel.selenium/com.parallel.selenium.threadsafe/pom.xml
+target/classes/utilities/Log.class
+target/classes/utilities/Utils.class
+target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+target/test-classes/amazonPackage/AmazonTest.class
+target/test-classes/flipkartPackage/FlipkartTest.class
+target/test-classes/googlePackage/GoogleTest.class
+test-output/.DS_Store
+test-output/AutomationReports/.DS_Store
+test-output/bullet_point.png
+test-output/collapseall.gif
+test-output/emailable-report.html
+test-output/failed.png
+test-output/index.html
+test-output/jquery-1.7.1.min.js
+test-output/junitreports/TEST-amazonPackage.AmazonTest.xml
+test-output/junitreports/TEST-flipkartPackage.FlipkartTest.xml
+test-output/junitreports/TEST-googlePackage.GoogleTest.xml
+test-output/navigator-bullet.png
+test-output/old/index.html
+test-output/old/Suite/Amazon Test.properties
+test-output/old/Suite/classes.html
+test-output/old/Suite/Flipkart Test.properties
+test-output/old/Suite/Google Test.properties
+test-output/old/Suite/groups.html
+test-output/old/Suite/index.html
+test-output/old/Suite/main.html
+test-output/old/Suite/methods-alphabetical.html
+test-output/old/Suite/methods-not-run.html
+test-output/old/Suite/methods.html
+test-output/old/Suite/reporter-output.html
+test-output/old/Suite/Test.properties
+test-output/old/Suite/testng.xml.html
+test-output/old/Suite/toc.html
+test-output/passed.png
+test-output/ScreenCaptures/.DS_Store
+test-output/skipped.png
+test-output/Suite/Amazon Test.html
+test-output/Suite/Amazon Test.xml
+test-output/Suite/Flipkart Test.html
+test-output/Suite/Flipkart Test.xml
+test-output/Suite/Google Test.html
+test-output/Suite/Google Test.xml
+test-output/Suite/Test.html
+test-output/Suite/Test.xml
+test-output/Suite/testng-failed.xml
+test-output/testng-failed.xml
+test-output/testng-reports.css
+test-output/testng-reports.js
+test-output/testng-results.xml
+test-output/testng.css
